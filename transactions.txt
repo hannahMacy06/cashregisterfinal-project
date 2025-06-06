@@ -1,0 +1,21 @@
+
+
+----- TRANSACTION RECEIPT -----
+Date & Time: Friday, June 06,2025 10:21:55 PM 
+Cashier:     hannah123
+Customer:    hannah123
+---------------------------------
+Items:
+   Product         Qty        Price/Unit Total     
+---------------------------------
+   dentastix       10         Php 37.25  Php 372.50
+   Dogfood         5          Php 150.00 Php 750.00
+   Shampoo         3          Php 85.66  Php 256.98
+---------------------------------
+Subtotal:                   Php 1379.48
+Payment:                    Php 5000.00
+Change:                     Php 3620.52
+---------------------------------
+Thank you for your purchase!
+=================================================================
+
